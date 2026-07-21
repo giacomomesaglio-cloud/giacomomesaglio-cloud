@@ -3,10 +3,15 @@
 # 👋 Hi, I'm Giacomo Mesaglio
 ### 🏗️ **Senior Civil Engineer → Business Intelligence & Data Analyst** 📊
 
-*M.Sc. Civil Engineer with 10+ years of experience in complex, large-scale infrastructure projects across Europe, combining hands-on operational experience with modern data analytics.*
+*M.Sc. Civil Engineer with 10+ years of experience in complex, large-scale infrastructure projects across Europe.*  
+*Currently transitioning into Data Analytics & BI following intensive training at Le Wagon Paris.*
+
+<br/>
+
+**🔗 Connect with me & Explore my Portfolio:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-mesaglio-295462100)
-[![Notion Portfolio](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](---)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](---)
 
 </div>
 
@@ -15,7 +20,7 @@
 ### 💡 About Me
 
 - 🎓 **Education & Engineering Background:** M.Sc. in Civil Engineering from **Politecnico di Milano** & **University of Miami**. 10+ years of hands-on experience in planning, executing, and delivering complex civil infrastructure projects in international environments.
-- 🚀 **The Tech Pivot:** Upskilled through **Le Wagon's Intensive Data Analytics Bootcamp (Paris)** to combine my domain knowledge in operations with modern data stack methodologies.
+- 🚀 **The Tech Pivot:** Upskilled through **Le Wagon's Intensive Data Analytics Bootcamp (Paris)** to merge domain knowledge in operations and project execution with modern data stack methodologies.
 - 🧠 **Core Transferable Skills:**
   - 📋 **Planning & Execution:** Translating complex operational milestones into clear, trackable workflows.
   - 👥 **Teamwork & Management:** Coordinating cross-functional site teams and aligning project execution with business goals.
@@ -80,12 +85,6 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=giacomomesaglio-cloud&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomomesaglio-cloud&layout=compact&theme=nord&hide=html,css"/>
-
-</div>
 ### 📊 GitHub Stats
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giacomomesaglio-cloud&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
