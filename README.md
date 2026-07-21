@@ -21,4 +21,4 @@ Bridging the gap between complex engineering operations and data-driven business
 ---
 
 📬 **Connect with me:**  
-[LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/giacomo-mesaglio-295462100)) · [Notion Portfolio](https://hilarious-friction-1e7.notion.site/Portfolio-d7eda2f2ecaf406cbe608af2115ff217)
+[LinkedIn Profile](https://www.linkedin.com/in/giacomo-mesaglio-295462100) · [Notion Portfolio](https://hilarious-friction-1e7.notion.site/Portfolio-d7eda2f2ecaf406cbe608af2115ff217)
