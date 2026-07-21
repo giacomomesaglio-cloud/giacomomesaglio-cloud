@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Giacomo Mesaglio
 ### **Senior Civil Engineer → Business Intelligence & Data Analyst**
 
-*M.Sc. Civil Engineer with 10+ years of experience managing complex, large-scale infrastructure projects across Europe, combining domain leadership with modern full-stack analytics.*
+*M.Sc. Civil Engineer with 10+ years of experience in complex construction and engineering projects across Europe, combining hands-on operational experience with modern data analytics.*
 
 [LinkedIn Profile](https://www.linkedin.com/in/giacomo-mesaglio-295462100) · [Notion Portfolio](---)
 
@@ -13,9 +13,13 @@
 
 ### 💡 About Me
 
-- 🎓 **Education & Background:** M.Sc. in Civil Engineering from **Politecnico di Milano** & **University of Miami**. 10+ years driving complex, large-scale construction and infrastructure projects across Europe.
-- 🚀 **The Tech Pivot:** Graduate of **Le Wagon's Intensive Data Analytics Bootcamp** (10-week immersion covering Data Sourcing, ETL/ELT, Warehousing, Visualization, and Analytics).
-- 🎯 **What I Do Best:** Bridging the gap between physical operations, engineering management, and executive data strategy. Translating raw operational metrics into clean, scalable data pipelines and high-impact business dashboards.
+- 🎓 **Education & Engineering Background:** M.Sc. in Civil Engineering from **Politecnico di Milano** & **University of Miami**. 10+ years of hands-on experience in planning, executing, and delivering complex civil infrastructure projects in international environments.
+- 🚀 **The Tech Pivot:** Upskilled through **Le Wagon's Intensive Data Analytics Bootcamp** to combine my domain knowledge in operations with modern data stack methodologies.
+- 🧠 **Core Transferable Skills:**
+  - 📋 **Planning & Execution:** Translating complex operational milestones into clear, trackable workflows.
+  - 👥 **Teamwork & Management:** Coordinating cross-functional site teams and aligning project execution with business goals.
+  - 💬 **Communication & Stakeholder Alignment:** Bridging the gap between technical operations, field teams, and non-technical stakeholders.
+- 🎯 **What I Do:** Transforming operational metrics and raw business data into scalable pipelines (`dbt`, `SQL`) and actionable BI dashboards (`Looker Studio`, `Power BI`).
 
 ---
 
