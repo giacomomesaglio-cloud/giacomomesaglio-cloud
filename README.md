@@ -1,11 +1,12 @@
 <div align="center">
 
 # 👋 Hi, I'm Giacomo Mesaglio
-### **Senior Civil Engineer → Business Intelligence & Data Analyst**
+### 🏗️ **Senior Civil Engineer → Business Intelligence & Data Analyst** 📊
 
-*M.Sc. Civil Engineer with 10+ years of experience in complex construction and engineering projects across Europe, combining hands-on operational experience with modern data analytics.*
+*M.Sc. Civil Engineer with 10+ years of experience in complex, large-scale infrastructure projects across Europe, combining hands-on operational experience with modern data analytics.*
 
-[LinkedIn Profile](https://www.linkedin.com/in/giacomo-mesaglio-295462100) · [Notion Portfolio](---)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-mesaglio-295462100)
+[![Notion Portfolio](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](---)
 
 </div>
 
@@ -14,12 +15,16 @@
 ### 💡 About Me
 
 - 🎓 **Education & Engineering Background:** M.Sc. in Civil Engineering from **Politecnico di Milano** & **University of Miami**. 10+ years of hands-on experience in planning, executing, and delivering complex civil infrastructure projects in international environments.
-- 🚀 **The Tech Pivot:** Upskilled through **Le Wagon's Intensive Data Analytics Bootcamp** to combine my domain knowledge in operations with modern data stack methodologies.
+- 🚀 **The Tech Pivot:** Upskilled through **Le Wagon's Intensive Data Analytics Bootcamp (Paris)** to combine my domain knowledge in operations with modern data stack methodologies.
 - 🧠 **Core Transferable Skills:**
   - 📋 **Planning & Execution:** Translating complex operational milestones into clear, trackable workflows.
   - 👥 **Teamwork & Management:** Coordinating cross-functional site teams and aligning project execution with business goals.
   - 💬 **Communication & Stakeholder Alignment:** Bridging the gap between technical operations, field teams, and non-technical stakeholders.
-- 🎯 **What I Do:** Transforming operational metrics and raw business data into scalable pipelines (`dbt`, `SQL`) and actionable BI dashboards (`Looker Studio`, `Power BI`).
+- 🗣️ **Languages:**
+  - 🇮🇹 Italian (Native)
+  - 🇬🇧 English (Professional Full Proficiency)
+  - 🇫🇷 French (Professional Full Proficiency)
+  - 🇪🇸 Spanish (Fluent)
 
 ---
 
@@ -68,12 +73,19 @@
 
 | Project | Tech Stack | Key Output |
 | :--- | :--- | :--- |
-| 📊 **[Project #1 Name]** *(Coming Soon)* | `dbt` `SQL` `Looker Studio` `BigQuery` | Interactive BI Dashboard & Operational Pipeline |
+| 📊 **[Le Wagon Final Project Name]** | `Python` `Pandas` `SQL` `Looker Studio` | Full-stack Data Analytics & Visualization Platform |
+| 📈 **[dbt + BigQuery Project Name]** *(Coming Soon)* | `dbt` `SQL` `Power BI` `BigQuery` | Modern Data Warehouse Pipeline & Executive Dashboard |
 
 ---
 
 <div align="center">
 
+### 📊 GitHub Stats
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=giacomomesaglio-cloud&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomomesaglio-cloud&layout=compact&theme=nord&hide=html,css"/>
+
+</div>
 ### 📊 GitHub Stats
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giacomomesaglio-cloud&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
