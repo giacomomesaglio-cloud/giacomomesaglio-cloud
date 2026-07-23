@@ -78,17 +78,18 @@
 
 | Project | Tech Stack | Key Output |
 | :--- | :--- | :--- |
-| 📊 **[Le Wagon Final Project Name]** | `Python` `Pandas` `SQL` `Looker Studio` | Full-stack Data Analytics & Visualization Platform |
-| 📈 **[dbt + BigQuery Project Name]** *(Coming Soon)* | `dbt` `SQL` `Power BI` `BigQuery` | Modern Data Warehouse Pipeline & Executive Dashboard |
+| 🎷 [**38 Riv Jazz Club — BI Analytics**](https://github.com/
+giacomomesaglio-cloud/Final-project-Le-Wagon-38Riv-Jazz-Club) | `dbt` `BigQuery` `Python` `Pandas` `API` `Looker Studio` | End-to-end Data Warehouse, P&L modeling & Executive BI Dashboard |
+| 🤖 **[ML/Predictive Analytics Project]** *(Coming Soon)* | `Python` `Pandas` `Scikit-learn` | End-to-End Machine Learning Model & Predictive Analytics |
 
 ---
 
-<div align="center">
-
 ### 📊 GitHub Stats
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=giacomomesaglio-cloud&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomomesaglio-cloud&layout=compact&theme=nord&hide=html,css"/>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=
+giacomomesaglio-cloud&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=
+giacomomesaglio-cloudE&layout=compact&theme=radial)
 
 </div>
 
