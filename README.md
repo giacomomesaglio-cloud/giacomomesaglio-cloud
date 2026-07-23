@@ -78,18 +78,15 @@
 
 | Project | Tech Stack | Key Output |
 | :--- | :--- | :--- |
-| 🎷 [**38 Riv Jazz Club — BI Analytics**](https://github.com/
-giacomomesaglio-cloud/Final-project-Le-Wagon-38Riv-Jazz-Club) | `dbt` `BigQuery` `Python` `Pandas` `API` `Looker Studio` | End-to-end Data Warehouse, P&L modeling & Executive BI Dashboard |
+| 🎷 [**38 Riv Jazz Club — BI Analytics**](https://github.com/giacomomesaglio-cloud/Final-project-Le-Wagon-38Riv-Jazz-Club) | `dbt` `BigQuery` `Python` `Pandas` `API` `Looker Studio` | End-to-end Data Warehouse, P&L modeling & Executive BI Dashboard |
 | 🤖 **[ML/Predictive Analytics Project]** *(Coming Soon)* | `Python` `Pandas` `Scikit-learn` | End-to-End Machine Learning Model & Predictive Analytics |
 
 ---
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=
-giacomomesaglio-cloud&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=
-giacomomesaglio-cloudE&layout=compact&theme=radial)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=giacomomesaglio-cloud&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giacomomesaglio-cloud&layout=compact&theme=radial)
 
 </div>
 
