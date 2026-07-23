@@ -83,11 +83,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=giacomomesaglio-cloud&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giacomomesaglio-cloud&layout=compact&theme=radial)
-
 </div>
 
 
