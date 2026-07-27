@@ -11,7 +11,7 @@
 **🔗 Connect with me & Explore my Portfolio:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-mesaglio-295462100)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](---)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://excited-skate-b2e.notion.site/Giacomo-Mesaglio-Portfolio-3a62c78f7c9580bcb549f9dc92b33427?source=copy_link)
 
 </div>
 
