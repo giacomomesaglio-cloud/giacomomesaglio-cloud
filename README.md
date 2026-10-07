@@ -79,10 +79,5 @@
 | Project | Tech Stack | Key Output |
 | :--- | :--- | :--- |
 | 🎷 [**38 Riv Jazz Club — BI Analytics**](https://github.com/giacomomesaglio-cloud/Final-project-Le-Wagon-38Riv-Jazz-Club) | `dbt` `BigQuery` `Python` `Pandas` `API` `Looker Studio` | End-to-end Data Warehouse, P&L modeling & Executive BI Dashboard |
-| 🤖 **[ML/Predictive Analytics Project]** *(Coming Soon)* | `Python` `Pandas` `Scikit-learn` | End-to-End Machine Learning Model & Predictive Analytics |
-
----
-
-</div>
-
-
+| 🏋️‍♂️ [**ATHX Performance Analytics & Race Simulator**](https://github.com/giacomomesaglio-cloud/-ATHX-Performance-Analytics-Race-Simulator) | `Python` `Pandas` `Matplotlib` `Web Scraping` `SciPy` | End-to-End Performance Benchmarking, Gap Analysis & Dynamic Race Simulator |
+| 🤖 **[ML/Predictive Analytics Project]** *(Coming Soon)* |
