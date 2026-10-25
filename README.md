@@ -4,7 +4,7 @@
 ### 🏗️ **Senior Civil Engineer → Business Intelligence & Data Analyst** 📊
 
 *M.Sc. Civil Engineer with 10+ years of experience in complex, large-scale infrastructure projects across Europe.*  
-*Currently transitioning into Data Analytics & BI following intensive training at Le Wagon Paris.*
+*Data Analyst & Teaching Assistant at Le Wagon Paris.*
 
 <br/>
 
@@ -19,11 +19,12 @@
 ### 💡 About Me
 
 - 🎓 **Education & Engineering Background:** M.Sc. in Civil Engineering from **Politecnico di Milano** & **University of Miami**. 10+ years of hands-on experience in planning, executing, and delivering complex civil infrastructure projects in international environments.
-- 🚀 **The Tech Pivot:** Upskilled through **Le Wagon's Intensive Data Analytics Bootcamp (Paris)** to merge domain knowledge in operations and project execution with modern data stack methodologies.
+- 🚀 **The Tech Pivot & Mentorship:** Completed **Le Wagon's Intensive Data Analytics Bootcamp (Paris)** and currently acting as a **Teaching Assistant**, mentoring incoming students in SQL, Python, Data Analytics workflows, and BI tools.
 - 🧠 **Core Transferable Skills:**
   - 📋 **Planning & Execution:** Translating complex operational milestones into clear, trackable workflows.
   - 👥 **Teamwork & Management:** Coordinating cross-functional site teams and aligning project execution with business goals.
   - 💬 **Communication & Stakeholder Alignment:** Bridging the gap between technical operations, field teams, and non-technical stakeholders.
+  - 👨‍🏫 **Technical Coaching:** Guiding junior analysts through code debugging, data modeling logic, and analytics best practices.
 - 🗣️ **Languages:**
   - 🇮🇹 Italian (Native)
   - 🇬🇧 English (Professional Full Proficiency)
@@ -32,11 +33,13 @@
 
 ---
 
-### 🎓 Academic & Training Credentials
+### 🎓 Academic & Professional Credentials
 
 ![Politecnico di Milano](https://img.shields.io/badge/Politecnico_di_Milano-003366?style=flat-square&logo=education&logoColor=white)
 ![University of Miami](https://img.shields.io/badge/University_of_Miami-F47321?style=flat-square&logo=education&logoColor=white)
 ![Le Wagon](https://img.shields.io/badge/Le_Wagon-FF5A5F?style=flat-square&logo=lewagon&logoColor=white)
+
+- 💼 **Teaching Assistant @ Le Wagon Paris:** Supporting students on Data Analytics curriculum (Python, SQL, Pandas, BI & Data Visualization), code review, and debugging.
 
 ---
 
@@ -79,4 +82,4 @@
 | :--- | :--- | :--- |
 | 🎷 [**38 Riv Jazz Club — BI Analytics**](https://github.com/giacomomesaglio-cloud/Final-project-Le-Wagon-38Riv-Jazz-Club) | `dbt` `BigQuery` `Python` `Pandas` `API` `Looker Studio` | End-to-end Data Warehouse, P&L modeling & Executive BI Dashboard |
 | 🏋️‍♂️ [**ATHX Performance Analytics & Race Simulator**](https://github.com/giacomomesaglio-cloud/-ATHX-Performance-Analytics-Race-Simulator) | `Python` `Pandas` `Matplotlib` `Web Scraping` `SciPy` | End-to-End Performance Benchmarking, Gap Analysis & Dynamic Race Simulator |
-| 🤖 **[ML/Predictive Analytics Project]** *(Coming Soon)* |
+| 🤖 **[ML/Predictive Analytics Project]** *(Coming Soon)* | | |
